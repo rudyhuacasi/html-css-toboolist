@@ -1,0 +1,17 @@
+/*LOGO E TITOLO*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: white;
+    display: flex;
+}
+.logo{
+   padding: 10px 10px 10px 20px;
+   width: 90px;
+}
+.tobo{
+    padding-block: 20px; 
+}
